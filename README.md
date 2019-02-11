@@ -3,9 +3,9 @@
 Für Slides und Code Beispiele, siehe [Lektion 0](../../../fhnw-syspr/blob/master/00/README.md)
 
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
-> *[Prüfen Sie die vorhandenen Forks, um das Repository für Ihre Klasse zu finden.](../../network/members)*
+> *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/8TxMhZJK).*
 
-### a) Raspberry Pi Setup, 1h
+### a) Raspberry Pi Setup, 30'
 Die einzelnen Schritte sind in den Slides.
 * Raspberry Pi Setup via USB zum eigenen Computer.
 * "Hello World" in C auf Raspberry Pi speichern.
@@ -14,20 +14,20 @@ Die einzelnen Schritte sind in den Slides.
     $ ./hello</pre>
 * Fertig? Bitte Nachbarn helfen.
 
-### b) GitHub Setup, 1h
+### b) GitHub Setup, 30'
 Die einzelnen Schritte sind in den Slides.
 * GitHub Account einrichten, falls keiner vorhanden.
-* Git auf Raspberry Pi installieren und konfigurieren.
-* https://github.com/tamberg/fhnw-syspr klonen.
-* Daneben, [Übungs-Repository aus Mail klonen](#git).
-* Code in Übungs-Repo committen, pushen.
-* Keine Mail bekommen? Bitte melden.
+* Git (auf Raspberry) Pi installieren und konfigurieren.
+* Hands-on Repo erzeugen aus [/fhnw-syspr-work-00](../../../fhnw-syspr-work-00) (siehe [Git](#git))
+* D.h. dem Link folgen => Forks => Classroom Link.
+* Dann das Hands-on Repo (auf Raspberry Pi) klonen.
+* File hello.c in Hands-on Repo committen, pushen.
 
-### Abgabe (optional)
+### Abgabe
 * Lokale Änderungen [committen und pushen](#git).
-* GitHub [Issue erstellen](../../issues/new) mit "Bitte um Review, @tamberg".
+* Review? GitHub [Issue erstellen](../../issues/new), "@tamberg" erwähnen.
 * Offene Fragen ausformulieren, was geht nicht, was haben Sie versucht.
-* GitHub mailt mir (@tamberg) automatisch, ich versuche in weniger als 24h zu antworten :)
+* GitHub mailt mir (@tamberg) automatisch, ich versuche in weniger als 24h zu antworten.
 
 ## Tools
 ### Git
