@@ -5,19 +5,19 @@ Für Slides und Code Beispiele, siehe [Lektion 0](../../../fhnw-syspr/blob/maste
 > *Achtung: Arbeiten Sie nicht direkt auf diesem Repository.*<br/>
 > *[Erstellen Sie eine persönliche Kopie, mit diesem GitHub Classroom Link](https://classroom.github.com/a/957Qo65Q).*
 
-### a) Raspberry Pi Setup, 30'
+### a) Setup, 30'
 Die einzelnen Schritte sind in den Slides.
 * Raspberry Pi Setup via USB zum eigenen Computer.
+* Oder Setup einer Linux VM auf eigenem Computer.
 * "Hello World" in C auf Raspberry Pi speichern.
 * Den C Source Code mit gcc kompilieren.<pre>
     $ gcc -o hello hello.c
     $ ./hello</pre>
-* Fertig? Bitte Nachbarn helfen.
 
-### b) GitHub Setup, 30'
+### b) GitHub Setup, 20'
 Die einzelnen Schritte sind in den Slides.
 * GitHub Account einrichten, falls keiner vorhanden.
-* Git (auf Raspberry) Pi installieren und konfigurieren.
+* Git auf Pi bzw. VM installieren und konfigurieren.
 * Hands-on Repo erzeugen aus [/fhnw-syspr-work-00](../../../fhnw-syspr-work-00) (siehe [Git](#git))
 * D.h. dem Link folgen => Forks => Classroom Link.
 * Dann das Hands-on Repo (auf Raspberry Pi) klonen.
@@ -61,4 +61,4 @@ Auf Ihrem Computer
     $ ssh pi@raspberrypi.local</pre>
 
 ## Support
-- [FHNW Syspr Slack](https://fhnw-syspr.slack.com/)
+- [FHNW Syspr FS20 Slack](https://fhnw-syspr-fs20.slack.com/)
